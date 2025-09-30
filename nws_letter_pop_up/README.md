@@ -1,0 +1,1 @@
+News letter demo created with vanilla JS, CSS and HTML for practice
